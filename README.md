@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am working on developing GIS tools and projects to solve real-world problems. <br>looking for collaboration with other enthusiasts to make new adventures.<br> 
+## 👋 Hi, I’m Mo Anwar
+
+I work at the intersection of **Geospatial Analysis, Remote Sensing, and Spatial Data Science**, with a focus on environmental and development-driven applications.
+
+### 🔍 Interests
+- Geospatial Analytics & GIS Modelling  
+- Remote Sensing for Environmental Monitoring  
+- Spatial Data Science & Geostatistics  
+- Earth Observation & Open Geospatial Data  
+- Applied Geospatial Tools for Decision-Making  
+
+### 🛠️ Tools & Technologies
+Python · GeoPandas · QGIS · Google Earth Engine · Raster & Vector Analysis · APIs · Spatial Databases  
+
+### 📌 Current Focus
+Building reproducible geospatial workflows and applied tools for real-world spatial problems.
+
 
 
 ## 🌐 Socials:
@@ -12,10 +28,4 @@ I am working on developing GIS tools and projects to solve real-world problems. 
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammadanwarx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadanwarx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadanwarx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohammadanwarx&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
