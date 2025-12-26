@@ -3,21 +3,6 @@
 
 I work at the intersection of **Geospatial Analysis, Remote Sensing, and Spatial Data Science**, with a focus on environmental and development-driven applications.
 
-### 🔍 Interests
-- Geospatial Analytics & GIS Modelling  
-- Remote Sensing for Environmental Monitoring  
-- Spatial Data Science & Geostatistics  
-- Earth Observation & Open Geospatial Data  
-- Applied Geospatial Tools for Decision-Making  
-
-### 🛠️ Tools & Technologies
-Python · GeoPandas · QGIS · Google Earth Engine · Raster & Vector Analysis · APIs · Spatial Databases  
-
-### 📌 Current Focus
-Building reproducible geospatial workflows and applied tools for real-world spatial problems.
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamad-anwar-alsadat-133479174/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadanwarx99@gmail.com) 
 
