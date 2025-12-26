@@ -1,4 +1,4 @@
-# 💫 About Me:
+# welcome to my profile:
 ## 👋 Hi, I’m Mo Anwar
 
 I work at the intersection of **Geospatial Analysis, Remote Sensing, and Spatial Data Science**, with a focus on environmental and development-driven applications.
