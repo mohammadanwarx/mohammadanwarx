@@ -10,7 +10,7 @@ I work at the intersection of **Geospatial Analysis, Remote Sensing, and Spatial
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=blue) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-[![Preview](thumbnail.png)](Plant-Life-Vintage-GIF-by-NASA.gif)
+![Profile animation](Plant-Life-Vintage-GIF-by-NASA.gif)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohammadanwarx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
